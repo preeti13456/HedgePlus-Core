@@ -1,0 +1,23 @@
+https://stateratoken.com/
+https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1
+
+Tokenomics
+There will be a fixed supply of HPLUS - 21 million. The 21 million will be minted at the initial token generation event (TGE) with no further tokens to be created afterward. The token allocations are shown below:
+
+30%   Presale and Public Sale
+20%   Platform Development 
+10%.  Team
+10%.  Operations
+10%   Strategic/Exchanges
+10%   Marketing and Partnerships
+5%     Bounties and Promotions
+5%     Legal and Advisors
+
+## Basically a fork of Statera, you will only need to tweak it a bit and add a 2% transaction tax instead of the 1% they have on theirs
+
+## Lastly for the 2% burn, 1% of it will go to a market making wallet to be used to provide market trading support. Only 1% gets burnt completely
+
+Should Transaction tax be applicable when:
+1. Owner transfers tokens to AnyOne Anyone
+2. AnyOne to Owner
+3. Contract to Anyone
