@@ -1,5 +1,3 @@
-https://stateratoken.com/
-https://etherscan.io/token/0xa7DE087329BFcda5639247F96140f9DAbe3DeED1
 
 Tokenomics
 There will be a fixed supply of HPLUS - 21 million. The 21 million will be minted at the initial token generation event (TGE) with no further tokens to be created afterward. The token allocations are shown below:
